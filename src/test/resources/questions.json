@@ -1,0 +1,395 @@
+{
+   "total":18,
+   "limit":50,
+   "questions":[
+      {
+         "date_created":"2015-11-25T16:31:18.000-04:00",
+         "item_id":"MLB709409283",
+         "seller_id":83482535,
+         "status":"UNANSWERED",
+         "text":"boanoite vc tem aplaca de sinal dela  ainda qual valor. obrigado.",
+         "id":3817784364,
+         "deleted_from_listing":false,
+         "hold":false,
+         "from":{
+            "id":184479964,
+            "answered_questions":1
+         }
+      },
+      {
+         "date_created":"2016-01-10T11:56:38.000-04:00",
+         "item_id":"MLB720751155",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"são 10,00 os 3 juntos ou cada 1? + frete.",
+         "id":3880839120,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Bom dia! são R$ 10,00 os 3 juntos, sem contar o frete. Obrigado!",
+            "status":"ACTIVE",
+            "date_created":"2016-01-10T12:33:18.000-04:00"
+         },
+         "from":{
+            "id":157513794,
+            "answered_questions":2
+         }
+      },
+      {
+         "date_created":"2016-01-10T15:03:32.000-04:00",
+         "item_id":"MLB720751155",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Tem algum risco nas mídias e como estão os encartes?",
+         "id":3880992363,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"As midias e os encartes estão em perfeitas condições sim...grato",
+            "status":"ACTIVE",
+            "date_created":"2016-01-10T18:54:43.000-04:00"
+         },
+         "from":{
+            "id":157513794,
+            "answered_questions":2
+         }
+      },
+      {
+         "date_created":"2016-02-12T18:28:22.000-04:00",
+         "item_id":"MLB727604849",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Olá amigo.  Tenho interesse neste cd.  Qual o real estado de conservação da mídia e encarte?  Obrigado!",
+         "id":3932171708,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Boa noite! Estão muito bem conservados. Grato pelo interesse",
+            "status":"ACTIVE",
+            "date_created":"2016-02-12T18:38:05.000-04:00"
+         },
+         "from":{
+            "id":28146529,
+            "answered_questions":1
+         }
+      },
+      {
+         "date_created":"2016-02-14T03:38:53.000-04:00",
+         "item_id":"MLB738977135",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"oi. a placa LED com os flats, qto faz? Grato!",
+         "id":3933617816,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Boa tarde! O valor é o preço anunciado mesmo (R$ 50)....grato pelo interesse!",
+            "status":"ACTIVE",
+            "date_created":"2016-02-14T13:34:21.000-04:00"
+         },
+         "from":{
+            "id":80453739,
+            "answered_questions":4
+         }
+      },
+      {
+         "date_created":"2016-02-14T13:36:05.000-04:00",
+         "item_id":"MLB738977135",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"oi. mas vem os flatcables juntos? grato.",
+         "id":3934176099,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Os flatcables vão junto sim",
+            "status":"ACTIVE",
+            "date_created":"2016-02-14T13:37:57.000-04:00"
+         },
+         "from":{
+            "id":80453739,
+            "answered_questions":4
+         }
+      },
+      {
+         "date_created":"2016-02-14T13:46:26.000-04:00",
+         "item_id":"MLB738977135",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Por favor, meu interesse eh a placa de led e o flatcable longo e preto que sobe até a placa de antenas, etc. Pode confirmar para fecharmos o negócio? Grato da atenção.",
+         "id":3934182154,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Pode confirmar. ...tenho os itens que você precisa",
+            "status":"ACTIVE",
+            "date_created":"2016-02-14T13:49:47.000-04:00"
+         },
+         "from":{
+            "id":80453739,
+            "answered_questions":4
+         }
+      },
+      {
+         "date_created":"2016-02-15T19:35:04.000-04:00",
+         "item_id":"MLB738977135",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Prezado, ontem fiz a compra e hoje o pgmto no MPago. Acredito que nesta terça-f ou quarta-f, vc receba a confirmação. Grato por tudo!",
+         "id":3936297313,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Tudo bem...no aguardo. Obrigado por enquanto",
+            "status":"ACTIVE",
+            "date_created":"2016-02-15T21:11:11.000-04:00"
+         },
+         "from":{
+            "id":80453739,
+            "answered_questions":4
+         }
+      },
+      {
+         "date_created":"2016-02-26T21:03:04.000-04:00",
+         "item_id":"MLB727049485",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Qual o estado do vinil? E do restante do material?",
+         "id":3954066968,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Boa noite....está em bom estado. Tem alguma particularidade que você exige?",
+            "status":"ACTIVE",
+            "date_created":"2016-02-26T21:05:59.000-04:00"
+         },
+         "from":{
+            "id":114721219,
+            "answered_questions":2
+         }
+      },
+      {
+         "date_created":"2016-02-26T21:10:13.000-04:00",
+         "item_id":"MLB727049485",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Se existe riscos no vinil e se o encarte está em ótimas condições! Sou de Indaiatuba",
+         "id":3954072674,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"O vinil está em ótimas condições. O encarte está legível e sem rasuras, como nas fotos...",
+            "status":"ACTIVE",
+            "date_created":"2016-02-26T21:28:54.000-04:00"
+         },
+         "from":{
+            "id":114721219,
+            "answered_questions":2
+         }
+      },
+      {
+         "date_created":"2016-04-14T10:56:31.000-04:00",
+         "item_id":"MLB755265395",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Me interessa a placa mãe e essa outra T-COM que pega os 4 parafusos. Quanto seria?",
+         "id":4028183982,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Boa tarde! desculpe a confusão mas a placa LED (que tem os flatcables) já foi vendida. Tenho somente a placa que possui os conectores A/V",
+            "status":"ACTIVE",
+            "date_created":"2016-04-14T12:39:55.000-04:00"
+         },
+         "from":{
+            "id":7760794,
+            "answered_questions":1
+         }
+      },
+      {
+         "date_created":"2016-04-21T08:31:23.000-04:00",
+         "item_id":"MLB755265395",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Vc tem a placa principal? Quanto?",
+         "id":4038995500,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Bom dia. Somente a placa dos conectores A/V, no preço publicado. ... obrigado",
+            "status":"ACTIVE",
+            "date_created":"2016-04-21T08:44:04.000-04:00"
+         },
+         "from":{
+            "id":68698993,
+            "answered_questions":1
+         }
+      },
+      {
+         "date_created":"2016-04-21T15:10:26.000-04:00",
+         "item_id":"MLB755265395",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"a tem certeza da placa principal funcionar?",
+         "id":4039573751,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"A placa de A/V funciona sim. O problema da TV foi na tela",
+            "status":"ACTIVE",
+            "date_created":"2016-04-21T15:21:41.000-04:00"
+         },
+         "from":{
+            "id":20254559,
+            "answered_questions":1
+         }
+      },
+      {
+         "date_created":"2016-05-02T10:32:33.000-04:00",
+         "item_id":"MLB728326055",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Como você classifica o estado geral do disco",
+         "id":4055692078,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"O disco está em perfeito estado. O encarte é que está um pouco gasto",
+            "status":"ACTIVE",
+            "date_created":"2016-05-02T11:55:59.000-04:00"
+         },
+         "from":{
+            "id":24002483,
+            "answered_questions":2
+         }
+      },
+      {
+         "date_created":"2016-05-02T10:34:16.000-04:00",
+         "item_id":"MLB728326055",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Qual o estado geral do disco?",
+         "id":4055694418,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"O disco está em perfeito estado. O encarte é que está um pouco gasto",
+            "status":"ACTIVE",
+            "date_created":"2016-05-09T14:41:58.000-04:00"
+         },
+         "from":{
+            "id":24002483,
+            "answered_questions":2
+         }
+      },
+      {
+         "date_created":"2016-05-29T18:29:18.000-04:00",
+         "item_id":"MLB733884291",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Olá, boa noite, quais são as Músicas desse CD",
+         "id":4099521022,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Boa noite. Procura alguma música diferente das que estão listadas na descrição do anúncio?",
+            "status":"ACTIVE",
+            "date_created":"2016-05-29T22:01:43.000-04:00"
+         },
+         "from":{
+            "id":213424902,
+            "answered_questions":3
+         }
+      },
+      {
+         "date_created":"2016-05-29T22:02:33.000-04:00",
+         "item_id":"MLB733884291",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Sim",
+         "id":4099941683,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Qual seria a música?",
+            "status":"ACTIVE",
+            "date_created":"2016-05-30T06:56:14.000-04:00"
+         },
+         "from":{
+            "id":213424902,
+            "answered_questions":3
+         }
+      },
+      {
+         "date_created":"2016-05-30T10:16:25.000-04:00",
+         "item_id":"MLB733884291",
+         "seller_id":83482535,
+         "status":"ANSWERED",
+         "text":"Baila morena,e Nathalie",
+         "id":4100221450,
+         "deleted_from_listing":false,
+         "hold":false,
+         "answer":{
+            "text":"Realmente não tenho outro CD com baila morena. Somente este anúncio, que possui Nathalie. Obrigado",
+            "status":"ACTIVE",
+            "date_created":"2016-06-04T15:26:42.000-04:00"
+         },
+         "from":{
+            "id":213424902,
+            "answered_questions":3
+         }
+      }
+   ],
+   "filters":{
+      "limit":50,
+      "offset":0,
+      "is_admin":false,
+      "sorts":[
+
+      ],
+      "caller":83482535,
+      "seller":"83482535"
+   },
+   "available_filters":[
+      {
+         "id":"item",
+         "name":"Item",
+         "type":"text"
+      },
+      {
+         "id":"from",
+         "name":"From user id",
+         "type":"number"
+      },
+      {
+         "id":"totalDivisions",
+         "name":"total divisions",
+         "type":"number"
+      },
+      {
+         "id":"division",
+         "name":"Division",
+         "type":"number"
+      },
+      {
+         "id":"status",
+         "name":"Status",
+         "type":"text",
+         "values":[
+            "ANSWERED",
+            "BANNED",
+            "CLOSED_UNANSWERED",
+            "DELETED",
+            "DISABLED",
+            "UNANSWERED",
+            "UNDER_REVIEW"
+         ]
+      }
+   ],
+   "available_sorts":[
+      "item_id",
+      "from_id",
+      "date_created",
+      "seller_id"
+   ]
+}
